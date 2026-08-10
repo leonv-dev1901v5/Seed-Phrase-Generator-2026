@@ -15,9 +15,7 @@ Library that have been used: pip install eth_account mnemonic bip32utils
 
 Feel free to share your thoughts for further improvement.
 ---
-
 ⬇️ **Get the latest version from Releases**
-
 ---
 ## ⚙️ Requirements
 ### 🖥️ PC (Windows)
